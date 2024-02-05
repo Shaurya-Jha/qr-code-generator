@@ -50,7 +50,7 @@ function App() {
 
         <p>{url}</p>
 
-        <div id="canvas"></div>
+        <div id="canvas" className="flex justify-center my-4"></div>
       </div>
     </>
   );
